@@ -96,7 +96,7 @@ function evenFinder(nums){
     if(nums[i]%2 === 0){
       newArr.push(nums[i])
     }
-  }
+  } return newArr
 }
 
 
